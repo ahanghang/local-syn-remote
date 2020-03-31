@@ -8,3 +8,7 @@
 	
 最终先在git服务上创建local-syn-remote仓库
 然后同步到仓库
+
+
+测试 git fetch和git pull 两个命令
+添加aaaa
