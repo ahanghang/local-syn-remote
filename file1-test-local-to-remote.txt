@@ -1,3 +1,10 @@
 第一个文件：
 	测试先在本地创建仓库，并创建一个文件，提交到本地仓库
-	然后测试，能否将本地仓库同步到远程仓库（前提是远程并没有创建这个仓库），
+	然后测试，能否将本地仓库同步到远程仓库（前提是远程并没有创建这个仓库）
+	
+测试不成功提示如下信息：
+	Please make sure you have the correct access rights 请确保您拥有正确的访问权限
+	and the repository exists. 存储库已经存在。
+	
+最终先在git服务上创建local-syn-remote仓库
+然后同步到仓库
